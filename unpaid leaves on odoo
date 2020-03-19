@@ -1,0 +1,10 @@
+create salary rules for unpaid leaves:
+
+and choose python code then put this code on your python code :
+
+try:
+	result =-(contract.wage/31) * worked_days.Unpaid.number_of_days
+except:
+	result = 0
+
+after that, save it and test on payslip
