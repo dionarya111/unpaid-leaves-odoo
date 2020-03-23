@@ -8,3 +8,9 @@ except:
 	result = 0
 
 after that, save it and test on payslip
+
+
+get worked day :
+1. setting on standard work time
+2. input python code:
+worked_days.WORK100.number_of_days
